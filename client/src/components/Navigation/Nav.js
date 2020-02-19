@@ -19,7 +19,7 @@ const NavComponent = (props) => {
 	return (
 		<div>
 			<Navbar color="light" light expand="md">
-				<img src={image} alt="Smiley face" height="42" width="42"></img>
+				<img src={image} alt="Smiley face" height="60" width="42"></img>
 				<NavbarBrand href="/"></NavbarBrand>
 				<NavbarToggler onClick={toggle} />
 				<Collapse isOpen={isOpen} navbar>

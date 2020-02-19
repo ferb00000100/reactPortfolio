@@ -1,7 +1,7 @@
 import React from 'react';
 import profile from "./profile_pic.jpg"
 import Body from "../Body/body"
-import MyCard from "../Cards/mycard"
+import MyCards from "../Cards/mycard"
 import Resume from "../Resume/Resume";
 
 const Main = (props) => {
