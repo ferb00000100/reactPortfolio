@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="768bb752-39e8-452b-9fd5-00a37301b9dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/components/Contact/contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Container/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Footer/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Pages/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Pages/About.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Pages/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Pages/Contact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Pages/Portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Pages/Portfolio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Body/body.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Body/body.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Cards/MyCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Project/MyCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Cards/images/burger.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Project/images/burger.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Cards/images/dayPlanner.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Project/images/dayPlanner.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Cards/images/mdp.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Project/images/mdp.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Cards/images/passwordGen.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Project/images/passwordGen.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Cards/images/sunnySide.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Project/images/sunnySide.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Cards/images/weather-dashboard.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Project/images/weather-dashboard.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Cards/styles.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/Container/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Container/Main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Navigation/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Navigation/Nav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Resume/Resume.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Resume/Resume.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581805522524</updated>
       <workItem from="1581805524137" duration="20283000" />
-      <workItem from="1582143009127" duration="5852000" />
+      <workItem from="1582143009127" duration="5926000" />
     </task>
     <servers />
   </component>

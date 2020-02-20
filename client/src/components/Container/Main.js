@@ -10,7 +10,7 @@ const Main = () => {
 		<div className="bg-secondary rounded row mt-2 mb-3 shadow p-3">
 			<div className="col-sm-3 mt-1 justify-content-center">
 				<img src={profile} className="shadow ml-3 p-2 mb bg-white rounded heading" width="225" height="275" alt="profile picture"></img>
-				<h6 className="h6 shadow p-2 mt-2 bg-dark rounded text-white text-center fix-heading-width"> FavoriteBands</h6>
+				<h6 className="h6 shadow p-2 mt-2 bg-dark rounded text-white text-center fix-heading-width"> Favorite Bands</h6>
 				<ul className="fix-heading-width">
 					<li className="home small">Young the Giant</li>
 					<li className="home small">Big Head Todd and the Monsters</li>
