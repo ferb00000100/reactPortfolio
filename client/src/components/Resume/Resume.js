@@ -12,8 +12,14 @@ const Resume = (props) => {
 	const toggle = () => setModal(!modal);
 
 	return (
-		<div>
+		<div className="col-6 d-flex mt-2">
 			<Button color="danger" onClick={toggle}>Resume</Button>
+			<div className="ml-3 mt-2 text-light">
+				<h3>Jason Martin</h3>
+				<a className="mr-3" href="https://github.com/ferb00000100"
+				   target="">MyGitHub</a>
+				<a href="https://www.linkedin.com/in/jason-martin-8a19583/" target="" >MyLinedIn</a>
+			</div>
 			<Modal size="lg" isOpen={modal} toggle={toggle} className={className}>
 				<ModalHeader className="bg-dark text-light" toggle={toggle}>Jason Martin</ModalHeader>
 				<ModalBody className="bg-secondary text-light">

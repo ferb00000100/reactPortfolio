@@ -11,9 +11,7 @@ import ss from "./images/sunnySide.png"
 import burger from "./images/burger.png"
 import AppBtn from "../AppBtn/AppBtn"
 
-
-
-const MyCard = (props) => {
+const MyCard = () => {
 
 	function loadApp (app) {
 		switch (app) {
@@ -42,7 +40,7 @@ const MyCard = (props) => {
 		return (
 	<>
 		<div>
-			<Card className="bg-dark text-light shadow m-2">
+			<Card className="bg-secondary text-light shadow m-2">
 				<CardBody>
 					<h4>My Drinking Problem Brewery Finder</h4>
 					<CardSubtitle>Locate a brewery near you</CardSubtitle>
@@ -53,7 +51,7 @@ const MyCard = (props) => {
 			</Card>
 		</div>
 		<div>
-			<Card className="bg-dark text-light shadow m-2">
+			<Card className="bg-secondary text-light shadow m-2">
 				<CardBody>
 					<h4>Password Generator</h4>
 					<CardSubtitle>Make your passwords secure</CardSubtitle>
@@ -64,7 +62,7 @@ const MyCard = (props) => {
 			</Card>
 		</div>
 		<div>
-			<Card className="bg-dark text-light shadow m-2">
+			<Card className="bg-secondary text-light shadow m-2">
 				<CardBody>
 					<h4>Day Planner</h4>
 					<CardSubtitle>Keep yourself organized</CardSubtitle>
@@ -75,7 +73,7 @@ const MyCard = (props) => {
 			</Card>
 		</div>
 		<div>
-			<Card className="bg-dark text-light shadow m-2">
+			<Card className="bg-secondary text-light shadow m-2">
 				<CardBody>
 					<h4>Weather Dashboard</h4>
 					<CardSubtitle>Traveling? Always know the weather</CardSubtitle>
@@ -86,7 +84,7 @@ const MyCard = (props) => {
 			</Card>
 		</div>
 		<div>
-			<Card className="bg-dark text-light shadow m-2">
+			<Card className="bg-secondary text-light shadow m-2">
 				<CardBody>
 					<h4>Sunny Side Middle School Sports App</h4>
 					<CardSubtitle>Keep track of your students roster, teams and contact information</CardSubtitle>
@@ -97,7 +95,7 @@ const MyCard = (props) => {
 			</Card>
 		</div>
 		<div>
-			<Card className="bg-dark text-light shadow m-2">
+			<Card className="bg-secondary text-light shadow m-2">
 				<CardBody>
 					<h4>Burger App</h4>
 					<CardSubtitle>For those who love burgers</CardSubtitle>

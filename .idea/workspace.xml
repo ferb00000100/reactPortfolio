@@ -2,17 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="768bb752-39e8-452b-9fd5-00a37301b9dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/Pages/About.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/Pages/Contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/Pages/Portfolio.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/AppBtn/AppBtn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Cards/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Contact/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Container/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Footer/Footer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Cards/mycard.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Cards/MyCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/Pages/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Pages/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/Pages/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Pages/Contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/Pages/Portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Pages/Portfolio.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Body/body.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Body/body.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Cards/MyCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Project/MyCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Cards/images/burger.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Project/images/burger.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Cards/images/dayPlanner.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Project/images/dayPlanner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Cards/images/mdp.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Project/images/mdp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Cards/images/passwordGen.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Project/images/passwordGen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Cards/images/sunnySide.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Project/images/sunnySide.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Cards/images/weather-dashboard.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Project/images/weather-dashboard.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Cards/styles.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/Container/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Container/Main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/Navigation/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Navigation/Nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Resume/Resume.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Resume/Resume.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +53,7 @@
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -110,7 +121,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581805522524</updated>
-      <workItem from="1581805524137" duration="18800000" />
+      <workItem from="1581805524137" duration="20283000" />
+      <workItem from="1582143009127" duration="5852000" />
     </task>
     <servers />
   </component>
@@ -118,6 +130,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="458" y="191" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582086062319">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="191" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.-579.1920.1008/0.23.1440.877@0.23.1440.877" timestamp="1582086062319" />
     <state x="235" y="76" key="SettingsEditor" timestamp="1581888862318">
       <screen x="0" y="23" width="1440" height="828" />
     </state>
@@ -126,16 +142,5 @@
       <screen x="0" y="23" width="1680" height="978" />
     </state>
     <state x="505" y="238" width="670" height="676" key="search.everywhere.popup/0.23.1680.978@0.23.1680.978" timestamp="1581809881134" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/client/src/components/Cards/MyCard.js</url>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
