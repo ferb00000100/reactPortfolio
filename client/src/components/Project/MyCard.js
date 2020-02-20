@@ -40,7 +40,7 @@ const MyCard = () => {
 		return (
 	<>
 		<div>
-			<Card className="bg-secondary text-light shadow m-2">
+			<Card className="bg-white text-dark shadow m-2">
 				<CardBody>
 					<h4>My Drinking Problem Brewery Finder</h4>
 					<CardSubtitle>Locate a brewery near you</CardSubtitle>
@@ -51,7 +51,7 @@ const MyCard = () => {
 			</Card>
 		</div>
 		<div>
-			<Card className="bg-secondary text-light shadow m-2">
+			<Card className="bg-white text-light shadow m-2">
 				<CardBody>
 					<h4>Password Generator</h4>
 					<CardSubtitle>Make your passwords secure</CardSubtitle>
@@ -62,7 +62,7 @@ const MyCard = () => {
 			</Card>
 		</div>
 		<div>
-			<Card className="bg-secondary text-light shadow m-2">
+			<Card className="bg-white text-light shadow m-2">
 				<CardBody>
 					<h4>Day Planner</h4>
 					<CardSubtitle>Keep yourself organized</CardSubtitle>
@@ -73,7 +73,7 @@ const MyCard = () => {
 			</Card>
 		</div>
 		<div>
-			<Card className="bg-secondary text-light shadow m-2">
+			<Card className="bg-white text-light shadow m-2">
 				<CardBody>
 					<h4>Weather Dashboard</h4>
 					<CardSubtitle>Traveling? Always know the weather</CardSubtitle>
@@ -84,7 +84,7 @@ const MyCard = () => {
 			</Card>
 		</div>
 		<div>
-			<Card className="bg-secondary text-light shadow m-2">
+			<Card className="bg-white text-light shadow m-2">
 				<CardBody>
 					<h4>Sunny Side Middle School Sports App</h4>
 					<CardSubtitle>Keep track of your students roster, teams and contact information</CardSubtitle>
@@ -95,7 +95,7 @@ const MyCard = () => {
 			</Card>
 		</div>
 		<div>
-			<Card className="bg-secondary text-light shadow m-2">
+			<Card className="bg-white text-light shadow m-2">
 				<CardBody>
 					<h4>Burger App</h4>
 					<CardSubtitle>For those who love burgers</CardSubtitle>

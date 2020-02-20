@@ -3,7 +3,7 @@ import React from "react";
 const Body = () => {
 	return (
 		<>
-			<div className="text-light">
+			<div className="text-dark">
 				<p className="p-1 home"> My name is Jason Martin and I am a Colorado native.  I have been married for 23 years
 					and have 3 teenage children. I have been in IT for over 20 years while spending most of that time as a Sr. Systems Engineer building infrastructure in data centers, and more recently
 					Amazon's AWS cloud. I am currently working as a Sr. Security Architect and I'm interested in moving onto a red team that conducts penetration testing
